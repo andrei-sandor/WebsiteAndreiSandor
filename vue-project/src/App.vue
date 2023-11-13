@@ -3,7 +3,7 @@
    <nav>
     <router-link class="nav-item" to="/">Home</router-link>
     <router-link class="nav-item" to="/test">School</router-link>
-    <router-link class="nav-item" to="/test">Experience</router-link>
+    <router-link class="nav-item" to="/experience">Experience</router-link>
     <router-link class="nav-item" to="/test">Projects</router-link>
     <router-link class="nav-item" to="/test">Tutoring</router-link>
     <router-link class="nav-item" to="/test">Links</router-link>
@@ -20,6 +20,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background-color: blue;
   
   
 
@@ -31,6 +32,7 @@
 .navigator{
   align: center;
   margin-top: -400px;
+  margin-left: 350px;
 }
 nav a {
   font-weight: bold;
@@ -45,6 +47,6 @@ nav a.router-link-exact-active {
     font-size: 16px;
     padding: 5px 10px;
     border-radius: 5px;
-    float: left;
+   
 }
 </style>

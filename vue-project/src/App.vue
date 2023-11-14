@@ -4,7 +4,7 @@
     <router-link class="nav-item" to="/">Home</router-link>
     <router-link class="nav-item" to="/test">School</router-link>
     <router-link class="nav-item" to="/experience">Experience</router-link>
-    <router-link class="nav-item" to="/test">Projects</router-link>
+    <router-link class="nav-item" to="/projects">Projects</router-link>
     <router-link class="nav-item" to="/test">Tutoring</router-link>
     <router-link class="nav-item" to="/test">Links</router-link>
     
@@ -20,7 +20,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  background-color: blue;
+  
   
   
 

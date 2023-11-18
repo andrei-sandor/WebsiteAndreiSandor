@@ -29,7 +29,7 @@
 
 .navigator{
   align: center;
-  margin-top: -320px;
+  margin-top: -400px;
   margin-left: 350px;
 }
 nav a {

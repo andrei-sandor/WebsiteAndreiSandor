@@ -5,7 +5,7 @@
     <router-link class="nav-item" to="/school">School</router-link>
     <router-link class="nav-item" to="/experience">Experience</router-link>
     <router-link class="nav-item" to="/projects">Projects</router-link>
-    <router-link class="nav-item" to="/test">Tutoring</router-link>
+    <router-link class="nav-item" to="/tutoring">Tutoring</router-link>
     <router-link class="nav-item" to="/test">Links</router-link>
     
   </nav>
@@ -21,8 +21,6 @@
   text-align: center;
   color: #2c3e50;
   
-  
-  
 
 }
 .nav {
@@ -31,7 +29,7 @@
 
 .navigator{
   align: center;
-  margin-top: -400px;
+  margin-top: -320px;
   margin-left: 350px;
 }
 nav a {
